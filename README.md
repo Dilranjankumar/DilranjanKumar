@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dilranjan. and I'm a Data Analyst, from Bihar.</h2>
+<h2 align="left">Hi 👋! My name is Dilranjan. and I'm a Automation Developer,Python Developer, from Bihar.</h2>
 
 ###
 
